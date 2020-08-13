@@ -12,3 +12,6 @@ What is the ratio of forum posts by different types of participants across 28 co
 ![](p3.png)
 
 What is the general pattern of post replies to the same original forum post initiator(i.e. how and how many replies are given to a perosn who asks a question)?
+![](p4.png)
+
+![](p5.png)
