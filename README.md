@@ -1,5 +1,7 @@
 # Cousera-Post-Analysis
 
+![](Mooc.png)
+
 This project uses data from discussion threads from of 28 Coursera MOOCs, as well as, focuses on the user interaction revealed by their online activities of forum posts and replies. All of these 28 Coursera MOOCs focus on quantitative knowledge and programing skills including data analytics, machine learning, finance, statistics, etc. This project aims to use exploratory data analysis and data visualization to answer the questions in the following:
 
 What is the relation between the number of course users, number of forum posts, and views of forum posts?
