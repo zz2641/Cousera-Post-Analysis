@@ -1,6 +1,6 @@
 # Cousera-Post-Analysis
 
-<img src="./Mooc.png" alt="Editor" width="900">
+<img src="./Mooc.png" alt="Editor" width="600">
 
 This project uses data from discussion threads from of 28 Coursera MOOCs, as well as, focuses on the user interaction revealed by their online activities of forum posts and replies. All of these 28 Coursera MOOCs focus on quantitative knowledge and programing skills including data analytics, machine learning, finance, statistics, etc. This project aims to use exploratory data analysis and data visualization to answer the questions in the following:
 
